@@ -1,0 +1,19 @@
+.friend {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.g-avatar {
+  width: 75px !important;
+}
+
+.friend .friend__avatar {
+  width: 50px;
+  border-radius: 35%;
+}
+
+
+.friend__avatar {
+  width: 70px;
+}
